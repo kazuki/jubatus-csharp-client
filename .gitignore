@@ -1,0 +1,5 @@
+*.suo
+/JubatusClient/obj
+/JubatusClient/bin
+/JubatusTutorial/obj
+/JubatusTutorial/bin
